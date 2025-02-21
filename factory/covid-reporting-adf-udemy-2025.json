@@ -1,0 +1,9 @@
+{
+	"name": "covid-reporting-adf-udemy-2025",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6410e212-402f-4227-ae9b-ec51da5ccaf2",
+		"tenantId": "b41b72d0-4e9f-4c26-8a69-f949f367c91d"
+	}
+}
